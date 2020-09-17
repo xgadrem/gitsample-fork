@@ -7,7 +7,6 @@
  * http://www.eclipse.org/legal/epl-v10.html
  *******************************************************************************/
 package org.eclipse.example.calc;
-
 /**
  * Binary operation interface
  */
